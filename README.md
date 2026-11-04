@@ -1,18 +1,21 @@
-# code_3000
+# Post-CSE300 Personal Ethics Statement:
+My goal above all with anything I create is to provide a benefit to a user, but that goal never comes before my primary concern of causing potential harm.  I would never want to create something that causes someone's data to be compromised, spreads falsehoods to the consumer, prioritizes financial gain at their physical/emotional expense or would damage someone's device.  I'd never want to be rushed or forced to use tools such as AI to the extent that would compromise my ability to follow what my software is doing.  With anything I put forward, I'd want to ensure it adheres to my values or not be pushed to the public at all, which I can only be confident of if I know the full extent of what I've created/contributed. As such, I would avoid companies that prioritize product churn-out over quality as assessed by their teams, and thus would avoid companies whose bottom line requires AI reliance to the detriment of QA.  If there is a point an AI tool is used where I couldn't begin to know how to debug something or don't even know how it works, how can I fix it if someone's information is leaked or it causes damage to their system?  I'd also avoid companies that rely on algorithms which prey upon harmful consumer behavior such as use of fake data (AI-generated or otherwise), rage-engagement and addiction.  This sort of profit comes at a health cost to a user, and a product built on a lie doesn't depend on how it's actually created but how well it can sell itself.  If product quality is no longer a part of the bottom line, it is on the path of causing damage later that would be too financially unviable to fix, or simply being a bad product propped up by fake engagement.  It's my hope that, by following this, an industry built to sustain consumer safety will follow.  I want to build a more hopeful future, and that future needs tools for the public that they know will help them rather than harm them.  That level of confidence starts with the engineers, and I will only design what I am confident in.  I would only want to work with a company that actively involves it's engineers in the design process rather than relegae the construction an AI piloted state.  I would only want to work with a company that actually wants to design something with a tangible use, rather than prioritize advertisement and fake metrics over the actual performance their software has on the stated problem.  I would only want to work with a company that designs a product that pushes it's bottom line over health risks.  I cannot trust any company that would engage in these to create a sustainable future for software design.
+
+## code_3000
 Collection of Assignments for CSE 3000: Contemporary Issues in Computer Science and Engineering
 
 _Note_: Odd-numbered assignments are in HuskyCT, while even-numbered assignments are found in this repo and can be submitted to Gradescope via a Github connection.
 
-## Outline of Assignments
+### Outline of Assignments
 
-### Module 02: Bot Predictor
+#### Module 02: Bot Predictor
 Your goal is to build a machine learning model using given data and a Python template. You'll make changes to the GradientBoostingClassifer in mod02_build_bot_predictor.py and then test your changes in mod02_test_bot_predictor.ipynb. Can you minimize the misclassification rate on the test set?
 
-### Module 04: Model Bias
+#### Module 04: Model Bias
 You are given a model that was built to predict a mystery variable using zip code, income, and education level. The variable "group" represents a demographic that is prohibited and was NOT used in the model. Your goal is to use the SHAP package to review this model for bias.
 
-### Module 06: Data De-Anonymization
+#### Module 06: Data De-Anonymization
 Your goal is to connect anonymized data back to its source data and check the match rate. To complete this activity, write functions in the "deanonymize" script to (1) link the records in the two datasets and (2) calculate the rate at which you are successful doing so. 
 
-### Module 08: Sustainability in Computing
+#### Module 08: Sustainability in Computing
 You will be given a toy dataset and have the opportunity to explore the potential effects of choosing sustainable energy sources to perform computations. You'll code the energy calculation in "sustainability calculations" script, and then you can review the results of various decisions in the "check calculations" notebook. 
